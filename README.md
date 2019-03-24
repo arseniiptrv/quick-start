@@ -1,4 +1,4 @@
-# quick-start                      // created a test repo to learn how to work on GitHub
+# quick-start                      
 A quick start with GitHub
 
 
